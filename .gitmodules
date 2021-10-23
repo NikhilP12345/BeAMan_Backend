@@ -1,0 +1,3 @@
+[submodule "core_js"]
+	path = core_js
+	url = git@gitlab.com:letstransport/backend-lt/core_js.git

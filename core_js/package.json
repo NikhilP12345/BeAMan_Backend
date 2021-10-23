@@ -1,0 +1,13 @@
+{
+  "name": "core_js",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Tushar Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/secret-manager": "^3.8.1",
+    "fast-csv": "^4.3.6",
+    "query-string": "^7.0.1"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,14 @@
+{
+    "MISSING_OR_INCORRECT_COLUMNS_CSV": {
+        "code": 10000,
+        "statusCode": 400,
+        "message": "Missing or incorrect column names",
+        "params": []
+    },
+    "DUPLICATE_ENTRIES": {
+        "code": 10001,
+        "statusCode": 400,
+        "message": "Duplicate entries",
+        "params": []
+    }
+}
